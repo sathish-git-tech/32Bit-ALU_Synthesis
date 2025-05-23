@@ -38,7 +38,7 @@ used.
 #### Synthesis RTL Schematic :
 
 #### Area report:
-
+![image](https://github.com/sathish-git-tech/32Bit-ALU_Synthesis/blob/main/area%20report%20vlsi.jpg)
 #### Power Report:
 ![image](https://github.com/sathish-git-tech/32Bit-ALU_Synthesis/blob/main/power%20output%20vlsi.jpg)
 
