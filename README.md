@@ -40,6 +40,7 @@ used.
 #### Area report:
 
 #### Power Report:
+![image](https://github.com/sathish-git-tech/32Bit-ALU_Synthesis/blob/main/power%20output%20vlsi.jpg)
 
 #### Result: 
 
