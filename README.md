@@ -43,5 +43,5 @@ used.
 ![image](https://github.com/sathish-git-tech/32Bit-ALU_Synthesis/blob/main/power%20output%20vlsi.jpg)
 
 #### Result: 
-
+![image](https://github.com/sathish-git-tech/32Bit-ALU_Synthesis/blob/main/output%20vlsi.jpg)
 The generic netlist of 32 bit ALU  has been created, and area, power reports have been tabulated and generated using Genus.
